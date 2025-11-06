@@ -3,6 +3,7 @@
 STEP 1: Clone your GitHub Repository
 POWERSHELL: git clone git@github.com:samuel730/Source-Code-Management-Project-3.git
 cd Source-Code-Management-Project-3
+
 <img width="793" height="118" alt="Cloning 1" src="https://github.com/user-attachments/assets/fbc24bde-e379-45ce-acaf-97be45ad42f3" />
 
 STEP 2: Add the Form.html and style.css given to you by your client
